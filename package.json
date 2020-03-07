@@ -1,0 +1,41 @@
+{
+  "name": "myportfoliosite",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "delay": "^4.2.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-mdl": "^1.11.0",
+    "react-pose": "^4.0.10",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.0",
+    "react-spring": "^8.0.20",
+    "sass": "^1.26.2",
+    "scss": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
